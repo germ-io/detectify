@@ -19,7 +19,7 @@ and then execute: `$ bundle`
 
 Finally, restart the server to apply the changes.
 
-Detectify only supports applications built with Ruby 2.2.2 and Rails 4.2 or higher.
+Detectify only supports applications built with Ruby 2.0.0 and Rails 4.2 or higher.
 
 ## Usage
 
